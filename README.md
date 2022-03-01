@@ -1,6 +1,6 @@
 # Machine-Learning
-<b> Canadian Cheese Data Classification </b>
-I have worked with Python libraries made for data-science. They includes
+<b> Canadian Cheese Data Classification </b> <br>
+In this Project I have worked with Python libraries made for data-science. They includes
 <ul>
   <li> Pandas for processing tabular data </li>
   <li> Altair for data visualization </li>
